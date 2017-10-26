@@ -1,0 +1,77 @@
+# Copyright (C) 2015 Dion Designs
+msgid ""
+msgstr ""
+"Project-Id-Version: BridgeDD Require 2.0\n"
+"POT-Creation-Date: 2015-07-07 05:41:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-07-07 05:41-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. do not translate the terms: BridgeDD, mysqli
+msgid "BridgeDD requires the mysqli extension."
+msgstr ""
+
+#. do not translate the terms: BridgeDD, PHP
+#. %s = PHP version
+msgid "BridgeDD requires PHP 5.3 or later. Your version: %s"
+msgstr ""
+
+#. do not translate the terms: BridgeDD, WordPress
+#. %s = WordPress version
+msgid "BridgeDD requires WordPress 3.6 or later. Your version: %s"
+msgstr ""
+
+#. do not translate the terms: BridgeDD, WordPress Multisite
+msgid "BridgeDD is not compatible with WordPress Multisite."
+msgstr ""
+
+#. do not translate the terms: BridgeDD, apc.stat
+msgid "BridgeDD requires apc.stat set to \"1\"."
+msgstr ""
+
+#. do not translate the terms: BridgeDD, eaccelerator.check_mtime
+msgid "BridgeDD requires eaccelerator.check_mtime set to \"1\"."
+msgstr ""
+
+#. do not translate the terms: BridgeDD, xcache.stat
+msgid "BridgeDD requires xcache.stat set to \"1\"."
+msgstr ""
+
+#. do not translate the terms: BridgeDD, WordPress
+msgid "BridgeDD cannot create directories in WordPress."
+msgstr ""
+
+#. do not translate the term: BridgeDD
+msgid "BridgeDD is already installed."
+msgstr ""
+
+#. do not translate the terms: phpBB
+msgid "No phpBB installations were found on your server."
+msgstr ""
+
+msgid "PASS"
+msgstr ""
+
+msgid "FAIL"
+msgstr ""
+
+#. do not translate the term: BridgeDD
+msgid "BridgeDD Requirement Check"
+msgstr ""
+
+#. do not translate the term: BridgeDD
+#. %s = PASS (HTML-formatted)
+msgid "BridgeDD basic requirements: %s"
+msgstr ""
+
+#. do not translate the term: phpBB
+msgid "phpBB Installation Check"
+msgstr ""
+
+#. do not translate the terms: BridgeDD, phpBB
+#. %s = FAIL (HTML-formatted)
+msgid "BridgeDD is not compatible with phpBB installations listed as %s"
+msgstr ""
