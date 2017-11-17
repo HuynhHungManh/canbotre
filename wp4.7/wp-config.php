@@ -54,8 +54,8 @@ define('AUTH_SALT',        'T=cE^n%)v}t]kut(zL65 CF/*A)-KZt`o !j>2$`rk7Lo.Tj{sgy
 define('SECURE_AUTH_SALT', 'm//73&|BnabL$9U*qmJa/W)~XOx^<*]ZowfT0[(Ht2Kc1kWN/@XBBG~fdA_:H#.h');
 define('LOGGED_IN_SALT',   'v%W.{DH<UhSfaH<jO[{4EQDMXSzMr$yy.?bM|4+caZr6%T9iO$CxNZ~_hN$l;UhC');
 define('NONCE_SALT',       'Pdy$V0n;g;+y}YtDepp>-fVPr65M^+_]}o2lSO+-H&0P5k[WfC0*Vm2nAjG=p[@T');
-define('WP_HOME','http://192.168.1.77:8080/');
-define('WP_SITEURL','http://192.168.1.77:8080/');
+define('WP_HOME','http://192.168.1.150:8080/');
+define('WP_SITEURL','http://192.168.1.150:8080/');
 /**#@-*/
 
 /**
